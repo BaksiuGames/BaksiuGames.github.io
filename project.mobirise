@@ -46,7 +46,7 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "mbrsiteDomain": "s1jztwalwu",
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://baksiugaming.pl",
@@ -63,8 +63,8 @@
       "textButton": "Agree"
     },
     "gdpr": false,
-    "google-analytics": "\n",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "google-analytics": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {

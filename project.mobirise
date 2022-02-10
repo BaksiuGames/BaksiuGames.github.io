@@ -49,7 +49,7 @@
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://BaksiuGaming.github.io",
+    "siteUrl": "https://baksiugaming.pl",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -63,7 +63,8 @@
       "textButton": "Agree"
     },
     "gdpr": false,
-    "google-analytics": "analytics.js\n"
+    "google-analytics": "\n",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
